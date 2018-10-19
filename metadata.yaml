@@ -64,6 +64,7 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'Love stories, French -- Translations into English'
 - !lcsh 'Tales -- France -- Translations into English'
+- GITenberg
 title: The Tales of the Heptameron, Vol. 1 (of 5)
 titlepage_image:
   cover_type: titlepage_image
